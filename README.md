@@ -30,6 +30,8 @@ Developed and simulated in **AMD Vivado**.
 
 ```text
 riscv/
+├── assets/
+│   └── rv32i_core_schematic.png # Elaborated RTL schematic diagram
 ├── riscv.xpr                 # Vivado Project File
 ├── basic_test.hex            # Sample RISC-V machine code test program
 ├── README.md                 # Project Documentation
@@ -62,6 +64,10 @@ riscv/
 ---
 
 ##  Datapath Architecture
+
+Below is the elaborated RTL schematic of the RV32I single-cycle processor core generated from AMD Vivado RTL analysis:
+
+![RV32I Core RTL Schematic](assets/rv32i_core_schematic.png)
 
 The processor operates on a single-cycle execution model:
 
