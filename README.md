@@ -6,7 +6,7 @@ Developed and simulated in **AMD Vivado**.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 - **RV32I Base Integer ISA Support**:
   - **R-type Arithmetic & Logic**: `ADD`, `SUB`, `SLL`, `SLT`, `SLTU`, `XOR`, `SRL`, `SRA`, `OR`, `AND`
@@ -26,7 +26,7 @@ Developed and simulated in **AMD Vivado**.
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```text
 riscv/
@@ -61,7 +61,7 @@ riscv/
 
 ---
 
-## 🛠️ Datapath Architecture
+##  Datapath Architecture
 
 The processor operates on a single-cycle execution model:
 
@@ -73,7 +73,7 @@ The processor operates on a single-cycle execution model:
 
 ---
 
-## 🧪 Verification & Simulation
+##  Verification & Simulation
 
 ### 1. Running the OOP Layered Testbench (ALU Verification)
 1. Open `riscv.xpr` in Vivado.
@@ -106,6 +106,6 @@ The processor operates on a single-cycle execution model:
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the MIT License - feel free to use and modify for learning and research.
