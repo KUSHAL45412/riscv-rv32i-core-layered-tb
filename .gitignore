@@ -1,0 +1,22 @@
+# Vivado auto-generated directories
+riscv.cache/
+riscv.hw/
+riscv.ip_user_files/
+riscv.sim/
+.Xil/
+
+# Vivado and simulation log / temporary files
+*.jou
+*.log
+*.pb
+*.wdb
+*.vcd
+*.str
+*.sdb
+*.rlx
+*.bak
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
